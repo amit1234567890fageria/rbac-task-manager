@@ -2,7 +2,7 @@
   "name": "rbac",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ayushsingh021.github.io/rbac_assignment_VRV",
+  "homepage": "https://github.com/amitfag/rbac-task-manager/edit/main/rbac_assignment_VRV-main",
   "type": "module",
   "scripts": {
      "predeploy": "npm run build",
