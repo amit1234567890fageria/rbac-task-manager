@@ -168,6 +168,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: ayush.singh0943@gmail.com
-- **GitHub**: [Ayush Singh](https://github.com/ayushsingh021)
-- **LinkedIn**: [Ayush Singh](https://www.linkedin.com/in/contactayushsingh/)
+- **Email**: amitku@iitvhilai.ac.in
+
+
