@@ -73,7 +73,7 @@ A feature-rich Role Based Access Control For a Task management application built
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/ayushsingh021/rbac_assignment_VRV.git
+   git clone https://github.com/amitfag/rbac-task-manager.git
    ```
 
 2. **Install Dependencies**
@@ -168,6 +168,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: ayush.singh0943@gmail.com
-- **GitHub**: [Ayush Singh](https://github.com/ayushsingh021)
-- **LinkedIn**: [Ayush Singh](https://www.linkedin.com/in/contactayushsingh/)
+- **Email**: amitfageria00@gmail.com
+- **GitHub**: [Amit Kumar][https://github.com/amitfag]
+- **LinkedIn**: [Amit Kumar][https://www.linkedin.com/in/amit-kumar-529a55261/]
